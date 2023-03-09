@@ -1,0 +1,8 @@
+name: AxolotlPronouns
+version: 1
+main: axolotlstudios.AxolotlPronouns
+api-version: 1.19
+author: AxolotlStudios
+commands:
+  axolotlpronouns:
+    description: ur mom
